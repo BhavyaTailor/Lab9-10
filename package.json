@@ -1,0 +1,20 @@
+{
+  "name": "lab9-10",
+  "version": "1.0.0",
+  "description": "This is my lab9-10",
+  "main": "index.js",
+  "scripts": {
+    "sass-build": "sass --no-source-map scss:css"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/BhavyaTailor"
+  },
+  "author": "Bhavya Tailor",
+  "license": "MIT",
+  "dependencies": {
+    "bootstrap": "^5.3.7",
+    "sass": "^1.89.2",
+    "sass-build": "^1.1.6"
+  }
+}
